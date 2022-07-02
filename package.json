@@ -1,0 +1,14 @@
+{
+  "name": "Cutvideos",
+  "version": "0.0.1",
+  "description": "none",
+  "main": "yes",
+  "repository": "none",
+  "author": "none",
+  "license": "none",
+  "private": null,
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
